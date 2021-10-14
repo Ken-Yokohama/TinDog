@@ -1,7 +1,8 @@
 # TinDog
 A Static Webpage Parody of Tinder for Dogs
 
-Technologies Used Include
+Technologies & Frameworks Used Include
 - HTML
 - CSS
 - Bootstrap 
+- FontAwesome
