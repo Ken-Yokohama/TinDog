@@ -6,3 +6,5 @@ Technologies & Frameworks Used Include
 - CSS
 - Bootstrap 5.1
 - FontAwesome
+- Google Fonts
+- 
